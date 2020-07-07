@@ -62,7 +62,7 @@ body {
 }
 
 h1 {
-  font-family: 'sacramento';
+  font-family: "pacifico" "serif" 'sacramento';
   font-size: 3rem;
   color: #66BFBF;
 }
@@ -86,7 +86,7 @@ hr {
   border-left: 0;
   border-right: 0;
   border-width: 6px;
-  width: 5%
+  width: 7%
 }
 
 .intro {
@@ -112,7 +112,9 @@ hr {
   padding-top: 5%;
   height: 125px;
 }
-
+.rtest{
+  font-size: 2rem;
+}
 .readimg {
   width: 40%;
   float: left;
